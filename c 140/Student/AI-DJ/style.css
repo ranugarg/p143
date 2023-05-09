@@ -1,0 +1,38 @@
+h3
+{
+    color: beige;
+}
+
+#s1
+{
+    color: aqua;
+}
+
+.div_speed
+{
+    float:left;
+
+}
+
+.div_volume
+{
+    float: right;
+}
+
+#img1
+{
+    width: 250px;
+    height: 250px;
+
+}
+
+#img2
+{
+    width: 250px;
+    height: 250px;
+}
+
+body
+{
+    background-size: cover;
+}
